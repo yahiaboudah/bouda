@@ -45,7 +45,7 @@ RETRIABLE_STATUS_CODES = [500, 502, 503, 504]
 # Please ensure that you have enabled the YouTube Data API for your project.
 # For more information about using OAuth2 to access the YouTube Data API, see:
 #   https://developers.google.com/youtube/v3/guides/authentication
-# For more information about the client_secrets.json file format, see:
+# For more information about the client_secrets.json file format, see this:
 #   https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
 CLIENT_SECRETS_FILE = "client_secrets.json"
 
