@@ -27,7 +27,7 @@ class ProgramOpener():
                                         description= 'open a program from the command line',
                                         usage='%(prog)s program_name')
 
-        my_parser.add_argument('-p', '--program', action='store', type=str, required=False)
+        my_parser.add_argument('program', action='store', type=str)
 
         args = my_parser.parse_args()
 

@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['open.py'],
-             pathex=['c:\\p\\fouzia\\hands\\commandopen'],
+             pathex=['C:\\p\\fouzia\\hands\\commandopen'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -25,7 +25,6 @@ exe = EXE(pyz,
           [],
           exclude_binaries=True,
           name='open',
-          icon = 'd:/icons/valienico.ico',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
