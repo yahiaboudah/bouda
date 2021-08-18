@@ -3,7 +3,7 @@ import json
 import argparse
 import subprocess
 
-PROGRAMS = "programs.json"
+PROGRAMS = "c:/p/fouzia/hands/commandopen/programs.json"
 
 class ProgramOpener():
     
@@ -15,7 +15,7 @@ class ProgramOpener():
         return f"=== opening {name} ==="
 
     def fail_msg(self, name):
-        return f"Program {name} not recognized."
+        return f"Program \"{name}\" not recognized."
 
     def get_programs(self):
         with open(self.programs_dir) as ps:
