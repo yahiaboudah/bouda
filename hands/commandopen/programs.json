@@ -4,5 +4,6 @@
     "afx": "c:/video/Adobe After Effects 2020/Support Files/AfterFX.exe-After Effects",
     "chrome": "c:/interbot/Google/Chrome/Application/chrome.exe-Google Chrome",
     "code": "c:/dev/vscode/code.exe-Visual Studio Code",
-    "vscode": "c:/dev/vscode/code.exe-Visual Studio Code"
+    "vscode": "c:/dev/vscode/code.exe-Visual Studio Code",
+    "audacity": "c:/audio/Audacity/audacity.exe-Audacity"
 }
