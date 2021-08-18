@@ -31,10 +31,10 @@ def open_program(process, my_programs):
     
     if(process in my_programs):
 
-        data = my_programs["process"].split('-')
+        data = my_programs[process].split('-')
         pr, msg = data[0], open_msg(data[1])
 
-        subprocess.run([my_programs[pr]])
+        subprocess.Popen(pr)
         return msg
     
     else: return fail_msg(process)
