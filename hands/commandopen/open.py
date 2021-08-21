@@ -44,7 +44,7 @@ class ProgramOpener():
 
         if(process in my_programs):
 
-            data = my_programs[process].split('-')
+            data = my_programs[process].split('*')
             pr, msg = data[0], self.open_msg(data[1])
 
             subprocess.Popen(pr)

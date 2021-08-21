@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['open.py'],
-             pathex=['c:\\p\\fouzia\\hands\\commandopen'],
+             pathex=['C:\\p\\fouzia\\hands\\commandopen'],
              binaries=[],
              datas=[],
              hiddenimports=[],
