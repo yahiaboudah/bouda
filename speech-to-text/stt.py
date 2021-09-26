@@ -13,7 +13,7 @@ def speech_to_text(pp, lan):
     
     if(fileext != 'flac'):
         nflac = True
-        newpp = (os.path.join(dirname, filename + '.flac'))
+        newpp = (os.path.join(dirname, f'{filename}.flac'))
         sound = AudioSegment.from_file(pp)
         sound.export(newpp, format="flac")
     
