@@ -1,0 +1,50 @@
+{
+    "Généralités": {
+        "Syllabus du module ASD Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/111797/mod_resource/content/1/syllabusASD.pdf",
+        "Notions algorithmiques Gloss": "https://elearning.univ-constantine2.dz/elearning/mod/glossary/view.php?id=22639"
+    },
+    "20 septembre - 26 septembre": {
+        "Syllabus et contenu du module ASD": "http://algosd.unblog.fr/2020/12/05/syllabus-du-module-asd-2020-2021/",
+        "Vidéo 01: Syllabus, ASD": "https://www.youtube.com/watch?v=xlK7z1BZDEI&feature=youtu.be"
+    },
+    "27 septembre - 3 octobre": {
+        "Chapitre 01: Partie 01": "http://algosd.unblog.fr/2020/12/05/chapitre-01-semaine-du-27-sept-au/",
+        "Vidéo 02:  Fonctions et Procédures, Chapitre1: Section1. ": "https://www.youtube.com/watch?v=gndFTZnQ8tg&feature=youtu.be"
+    },
+    "4 octobre - 10 octobre": {
+        "Chapitre 01: Partie O2": "http://algosd.unblog.fr/2020/12/05/chapitre-01-semaine-du-04-au-10-oct/",
+        "Vidéo 03:  Modes de Passage de Paramètres, Chapitre 1, Section2.": "https://www.youtube.com/watch?v=b1UB8YheQeg&feature=youtu.be",
+        "Série de TD N°1 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/150528/mod_resource/content/1/TD1.pdf"
+    },
+    "18 octobre - 24 octobre": {
+        "Chapitre 1: Partie 03 et fin": "http://algosd.unblog.fr/2020/12/05/chapitre-1-semaine-du-11-au-17-oct/",
+        "Vidéo 04: Récursivité et Modèle de la Mémoire, chapitre1: Section 3, Partie1": "https://www.youtube.com/watch?v=mxy3rGzMgs8&feature=youtu.be",
+        "Vidéo  05:  Récursivité/Itération + Exemples Récapitulatifs, Chapitre1:  Section3,  Partie 2. ": "https://www.youtube.com/watch?v=tIpENXc4g4Y"
+    },
+    "25 octobre - 31 octobre": {
+        "Chapitre 2: Partie 1": "http://algosd.unblog.fr/2020/12/18/chapitre-2-semaine-du-25-31-oct/",
+        "Vidéo 06: Solution de l'Exo 1, TD1 avec Étapes de Résolution d'un Pbm Algorithmique.": "https://www.youtube.com/watch?v=KbzgfINFou0",
+        "Vidéo 07: Résolution Récursive, Exos: 3, 2 et 4, TD1.": "https://www.youtube.com/watch?v=ujqF1nqHYZk&feature=youtu.be",
+        "Vidéo 08: Chapitre 2: Notion de  Complexité Algorithmique.": "https://www.youtube.com/watch?v=4Ekt6Yo-rD0&feature=youtu.be"
+    },
+    "1 novembre - 7 novembre": {
+        "Chapitre 02: Partie 2 et Fin": "http://algosd.unblog.fr/2020/12/18/chapitre-2-semaine-du-01-au-07-nov/",
+        "Vidéo 9: Complexité Algorithmique ( Exemples Récapitulatifs), chap2.": "https://www.youtube.com/watch?v=O-REMWTlz2c&feature=youtu.be",
+        "Vidéo 10: Complexité Algorithmique (Exemples Récapitulatifs), chap2.": "https://www.youtube.com/watch?v=RgRLQuzYJ_c&feature=youtu.be"
+    },
+    "8 novembre - 14 novembre": {
+        "Vidéo 11:  Résolution Exo 7, TD1:  Récursivité + Généricité et Réutilisation.": "https://www.youtube.com/watch?v=E_DT3t95x-M&feature=youtu.be",
+        "Série de TD N°2 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/163989/mod_resource/content/1/TD2.pdf"
+    },
+    "22 novembre - 28 novembre": {
+        "Chapitre3-Partie01: Introduction aux TAD": "http://algosd.unblog.fr/2021/01/28/chapitre-3-partie-01-semaine-du-3101-au-07022021/",
+        "Vidéo 16: TAD Complexe et une Implémentation Possible (Exemple Complet).": "https://www.youtube.com/watch?v=PxgzkpG_yqc&feature=youtu.be",
+        "Vidéo 17: TAD DATE et une Implémentation Possible (Exemple Complet)": "https://www.youtube.com/watch?v=tMVFTII5rec&feature=youtu.be"
+    },
+    "29 novembre - 5 décembre": {
+        "Chapitre3-Partie 02": "http://algosd.unblog.fr/2021/02/20/chapitre2-partie02-structure-de-donnees-listes/"
+    },
+    "6 décembre - 12 décembre": {
+        "Chapitre 03 Partie 03 et fin": "http://algosd.unblog.fr/2021/03/02/chapitre-3-partie-03-et-fin/"
+    }
+}

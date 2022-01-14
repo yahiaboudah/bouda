@@ -74,7 +74,7 @@ class NTIC():
     
     def get_all_classes(self, course_name):
         soup = BeautifulSoup(self.get_course_html(course_name), 'html.parser')
-        weeks = soup.find('ul', {'class': 'weeks'})
+        weeks = soup.find('div', {'class': 'course-content'})
 
         course_content = {}
         for li in weeks.find_all('li', {'id': re.compile('section-\d+')}):
@@ -89,7 +89,7 @@ class NTIC():
             print(contentName)
             for activity in li.find_all('li', {'class': re.compile('activity .*')}):
 
-                if(activity['class'][1] in ['folder', 'forum']): continue
+                if(activity['class'][1] in ['folder', 'forum', 'label']): continue
 
                 activity_instance = activity.find_all('div', {'class': 'activityinstance'})[0]
 
@@ -101,7 +101,7 @@ class NTIC():
                     re.search(r"window\.open\((.*)", str(link.get('onclick'))).groups()[0].split(',')[0][1:-1]
                 )
 
-                course_content[contentName][link_title] = self.find_destination(link) 
+                course_content[contentName][link_title] = self.find_destination(link)
         
         print('==================================>')
         return course_content
@@ -109,8 +109,8 @@ class NTIC():
 if __name__ == '__main__':
     
     n = NTIC()
-
-    for course in n.courses:
-        info = n.get_all_classes(course)
-        with open(f'courses/{course}.json', 'w+') as f:
-            f.write(json.dumps(info, indent=4, ensure_ascii=False))
+    
+    course = 'SI'
+    info = n.get_all_classes(course)
+    with open(f'courses/{course}.json', 'w+', encoding= "UTF-8") as f:
+        f.write(json.dumps(info, indent=4, ensure_ascii=False))

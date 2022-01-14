@@ -1,0 +1,58 @@
+{
+    "Généralités": {},
+    "20 septembre - 26 septembre": {},
+    "27 septembre - 3 octobre": {},
+    "4 octobre - 10 octobre": {},
+    "11 octobre - 17 octobre": {},
+    "18 octobre - 24 octobre": {},
+    "25 octobre - 31 octobre": {},
+    "1 novembre - 7 novembre": {},
+    "8 novembre - 14 novembre": {},
+    "15 novembre - 21 novembre": {},
+    "Chapitre 1": {
+        "Syllabus POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/109632/mod_resource/content/1/syllabusPOO.ppt",
+        "POO_Chapitre1 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/109633/mod_resource/content/1/POO-Chapitre1.ppt",
+        "TD1_POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/111081/mod_resource/content/1/TD1_POO_2020.pdf",
+        "TP1_POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/111092/mod_resource/content/1/TP1_POO_2019.pdf",
+        "Chap1": "https://www.youtube.com/watch?v=ID2yDuuvSsY&feature=youtu.be",
+        "TD1EX1": "https://www.youtube.com/watch?v=04uy_-U75G4&feature=youtu.be",
+        "TD1EX2_EX3": "https://www.youtube.com/watch?v=oGBsJJui-8Y&feature=youtu.be",
+        "TD1EX4": "https://www.youtube.com/watch?v=NUdOsnXtIaU&feature=youtu.be",
+        "TD1EX5": "https://www.youtube.com/watch?v=l51Phz0jUAA&feature=youtu.be",
+        "TD1EX6": "https://www.youtube.com/watch?v=Q-GZNg4SaYM&feature=youtu.be",
+        "TD1EX7_EX8": "https://www.youtube.com/watch?v=sNAudGPHU4U&feature=youtu.be",
+        "TP (Révision)": "https://www.youtube.com/watch?v=b9unHPm9rBo&list=PLSCzdTOMxEKzjIInVmSMK683MckXkHL0K"
+    },
+    "29 novembre - 5 décembre": {},
+    "6 décembre - 12 décembre": {
+        "POO_Chapitre2 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/109634/mod_resource/content/1/POO-Chapitre2.1.ppt",
+        "CHapitre 2 suite Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/109635/mod_resource/content/1/POO-Chapitre2.2.ppt",
+        "TP2_CHAP2_POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/120946/mod_resource/content/1/TP2_heritage_POO_2020.pdf",
+        "Chap2_est_un": "https://www.youtube.com/watch?v=U2LrUesIaF0&feature=youtu.be",
+        "Chap2_construction_objet": "https://www.youtube.com/watch?v=x8MJbbxGGjc&feature=youtu.be",
+        "Chap2_Surcharge_et_redéfinition": "https://www.youtube.com/watch?v=Gsl7daLuTsU&feature=youtu.be",
+        "TD2_EX1": "https://www.youtube.com/watch?v=eBWfPu28C0k&feature=youtu.be",
+        "TD2_EX2": "https://www.youtube.com/watch?v=1l7isMkSlT0&feature=youtu.be",
+        "TD2_EX3": "https://www.youtube.com/watch?v=w89MpVHgw3A&feature=youtu.be",
+        "Chap2_Polymorphisme": "https://www.youtube.com/watch?v=L9s_H0THxiE&feature=youtu.be",
+        "Chap2_Cast": "https://www.youtube.com/watch?v=58SL8FqzOYc&feature=youtu.be",
+        "TD2-EX4": "https://www.youtube.com/watch?v=BOll643Ayco&feature=youtu.be",
+        "TD2-EX5": "https://www.youtube.com/watch?v=9YmwSE-2KsQ&feature=youtu.be",
+        "TD2-EX6": "https://www.youtube.com/watch?v=A1EAicQos-I&feature=youtu.be",
+        "TD2 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/162817/mod_resource/content/1/TD2_POO.pdf"
+    },
+    "13 décembre - 19 décembre": {
+        "TD3_CHAP3_POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/120954/mod_resource/content/1/TD3_POO.pdf",
+        "TP3_CHAP3_POO Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/120955/mod_resource/content/1/TP3_POO.pdf",
+        "Chap3_Classe_Abstraite": "https://www.youtube.com/watch?v=1xn6LsOQPo0&feature=youtu.be",
+        "Chap3_Interface": "https://www.youtube.com/watch?v=7Wex3YZUbvw&feature=youtu.be",
+        "POO_chapitre3 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/166792/mod_resource/content/1/POO-Chapitre3.ppt"
+    },
+    "20 décembre - 26 décembre": {},
+    "27 décembre - 2 janvier": {
+        "Controle 2018 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/139512/mod_resource/content/1/controle2018.pdf",
+        "Rattrapage 2018 Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/139513/mod_resource/content/1/Rattrapage2018.pdf",
+        "Contrôle TP POO (Jan 2022) + Solutions Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/175377/mod_resource/content/1/Controles%20TP%20POO%20%2B%20Sol.rar?forcedownload=1",
+        "Contrôles Fic": "https://elearning.univ-constantine2.dz/elearning/pluginfile.php/175497/mod_resource/content/1/Extraits%20de%20contr%C3%B4les.docx"
+    }
+}
