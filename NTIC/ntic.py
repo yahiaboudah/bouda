@@ -86,7 +86,6 @@ class NTIC():
             contentName = contentName.get_text()
             course_content[contentName] = {}
 
-            print(contentName)
             for activity in li.find_all('li', {'class': re.compile('activity .*')}):
 
                 if(activity['class'][1] in ['folder', 'forum', 'label']): continue
@@ -94,7 +93,6 @@ class NTIC():
                 activity_instance = activity.find_all('div', {'class': 'activityinstance'})[0]
 
                 link = activity_instance.find('a', {'onclick', re.compile('.*')})
-                
                 link_title = str(link.find('span', {'class': 'instancename'}).get_text())[0:-4]
                 link = (
                     link.get('href') or
@@ -103,14 +101,13 @@ class NTIC():
 
                 course_content[contentName][link_title] = self.find_destination(link)
         
-        print('==================================>')
         return course_content
 
 if __name__ == '__main__':
     
     n = NTIC()
     
-    course = 'SI'
-    info = n.get_all_classes(course)
-    with open(f'courses/{course}.json', 'w+', encoding= "UTF-8") as f:
-        f.write(json.dumps(info, indent=4, ensure_ascii=False))
+    for course in n.courses:    
+        info = n.get_all_classes(course)
+        with open(f'courses/{course}.json', 'w+', encoding= "UTF-8") as f:
+            f.write(json.dumps(info, indent=4, ensure_ascii=False))
