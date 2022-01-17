@@ -2,6 +2,7 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+import ntic
 import flask
 from flask import request
 from datetime import datetime as dt
@@ -17,7 +18,7 @@ app = flask.Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def home():
-    year = int(request.args['year'])
+    year = int(request.args['shit'])
     try:
         return series.loc[year]
     except KeyError:
