@@ -22,7 +22,7 @@ app = flask.Flask(__name__)
 @app.route('/', methods=['GET'])
 def home():
     data = king_data()
-    year = int(request.args['shit'])
+    year = int(request.args['year'])
     try:
         return data[year]
     except KeyError:
