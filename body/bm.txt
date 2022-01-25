@@ -1,0 +1,22 @@
+{
+    "height": 163.5,
+    "foot": 25,
+    "waist": 83,
+    "cranium": 58,
+    "full-arm": 70,
+    "lower-body": 92,
+    "thigh": 45,
+    "lower-leg": 47,
+    "nose": 5.5,
+    "face": 20,
+    "nose-to-upper-lip": 2,
+    "lip-to-chin": 4,
+    "ear-length": 6,
+    "eyebrow-length": 4,
+    "mid-eyebrow-gap": 3.5,
+    "half-jaw": 10,
+    "penis-not-erect": 12,
+    "penis-fully-erect": 15,
+    "index-finger": 7.5,
+    "middle-finger": 8.5
+}
